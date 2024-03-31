@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"forceConsistentCasingInFileNames": true,
+		"lib": ["dom", "dom.iterable", "es2020"],
+		"module": "preserve",
+		"skipLibCheck": true,
+		"strict": true,
+		"types": ["vite/client"]
+	},
+	"include": ["**/*.ts"]
+}
